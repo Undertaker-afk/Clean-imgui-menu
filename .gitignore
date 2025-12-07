@@ -1,0 +1,25 @@
+# Build artifacts
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
+*.tlog
+*.idb
+*.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
+Build.CppClean.log
+imgui.ini
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
